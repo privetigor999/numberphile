@@ -11,7 +11,9 @@ export const fetchData = createAsyncThunk<
   const { type, number } = getState().numberReducer;
 
   try {
-    const response = await axios.get(`http://numbersapi.com/${number}/${type}`);
+    const response = await axios.get(
+      `https://numbersapi.com/${number}/${type}`
+    );
     return response.data;
   } catch (e) {
     return rejectWithValue((e as AxiosError).message);
