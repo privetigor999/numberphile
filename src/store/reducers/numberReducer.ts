@@ -7,7 +7,7 @@ const initialState: INumbers = {
   number: 5,
   isLoading: false,
   errorMessage: "",
-  type: "date",
+  type: "trivia",
 };
 
 export const numberReducer = createSlice({
