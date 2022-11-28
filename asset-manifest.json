@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/numberphile/static/css/main.0601f0bd.css",
-    "main.js": "/numberphile/static/js/main.326eaaa1.js",
+    "main.js": "/numberphile/static/js/main.6b69fea1.js",
     "static/media/search.svg": "/numberphile/static/media/search.058edc52467fbd6deb001d74d89ca694.svg",
     "static/media/up-arrow.svg": "/numberphile/static/media/up-arrow.80d920fb5f038a53d86d4e1cf2a39bf5.svg",
     "static/media/angle-arrow.svg": "/numberphile/static/media/angle-arrow.92ee3f3f812c5fcf6654b04cc15f2895.svg",
     "index.html": "/numberphile/index.html",
     "main.0601f0bd.css.map": "/numberphile/static/css/main.0601f0bd.css.map",
-    "main.326eaaa1.js.map": "/numberphile/static/js/main.326eaaa1.js.map"
+    "main.6b69fea1.js.map": "/numberphile/static/js/main.6b69fea1.js.map"
   },
   "entrypoints": [
     "static/css/main.0601f0bd.css",
-    "static/js/main.326eaaa1.js"
+    "static/js/main.6b69fea1.js"
   ]
 }
