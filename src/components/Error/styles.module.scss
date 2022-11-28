@@ -1,0 +1,19 @@
+.errorContainer {
+  margin: 40px auto 0;
+  width: 500px;
+  background: #686b75;
+  border-radius: 6px;
+  border: 1px solid #000000;
+  text-align: center;
+
+  h1 {
+    color: #ffffff;
+    padding: 20px;
+  }
+}
+
+@media screen and (max-width: 340px) {
+  .errorContainer {
+    width: 300px;
+  }
+}
